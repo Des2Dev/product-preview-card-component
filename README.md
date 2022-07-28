@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL here](https://your-solution-url.com)
+- [Solution URL here](https://www.frontendmentor.io/solutions/responsive-mobilefirst-card-component-using-flexbox-yWWG8KKfhu)
 - [Live site URL here](https://des2dev.github.io/product-preview-card-component/)
 
 ## My process
