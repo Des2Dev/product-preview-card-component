@@ -81,7 +81,6 @@ body {
 
   display: flex;
   flex-flow: column nowrap;
-  align-items: center;
 
   border-radius: 10px;
   overflow: hidden;
@@ -172,7 +171,7 @@ body {
 
 @media all and (min-width: 600px) {
   .card {
-    max-width: 575px;
+    max-width: 560px;
     flex-flow: row nowrap;
 
   }
